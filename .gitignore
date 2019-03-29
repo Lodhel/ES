@@ -1,0 +1,11 @@
+env/
+.idea/
+
+src/__pycache__/
+src/project/__pycache__/
+src/project/elit/__pycache__/
+
+src/project/website/__pycache__/
+src/project/website/migrations/
+
+db.sqlite3
