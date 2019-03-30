@@ -1,0 +1,34 @@
+.magic-position {
+    margin: auto;
+}
+
+.general-position {
+    display: flex;
+}
+
+.main-img {
+  opacity: 0.9;
+  position: absolute;
+}
+
+.main-text {
+  position: relative;
+  bottom: 0px;
+  text-align: center;
+  font-family: Times New Roman;
+  opacity: 0.6;
+}
+
+.block-text {
+  position: relative;
+  bottom: -222px;
+  text-shadow:
+    white 0.5px 0.5px 0, black 0.5px 0.5px 0,
+    white 1px 0.6px 0, black 0.5px 0.5px 0,
+    white 0.5px 0.5px 0;
+}
+
+.main-form {
+  position: relative;
+  bottom: 100px;
+}
